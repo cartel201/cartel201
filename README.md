@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Madhup Singh</h1>
+<h1 align="center">Hi 👋,I'm Madhup Singh</h1>
 <h3>Passionate Software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/madhup singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhup singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/madhup-singh-04601a283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhup singh" height="30" width="40" /></a>
 <a href="https://instagram.com/madhup__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhup__singh" height="30" width="40" /></a>
 </p>
 
